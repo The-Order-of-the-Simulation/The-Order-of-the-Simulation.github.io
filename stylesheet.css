@@ -1,0 +1,48 @@
+body {
+	margin: 8pt;
+
+	background-color: #181818;
+	color: #C0C0C0;
+
+	font-family: Verdana;
+	font-size: 12pt;
+	font-weight: normal;
+}
+
+h1, h2 {
+	color: #E0E0E0;
+}
+
+h1 {
+	font-size: 32pt;
+	font-weight: 100;
+}
+
+h2 {
+	font-size: 24pt;
+	font-weight: 200;
+}
+
+h3 {
+	font-size: 16pt;
+	font-weight: 300;
+}
+
+a:link {
+	color: #80c0e0;
+}
+
+a:visited {
+	color: #e08060;
+}
+
+.topnav, .footer {
+
+	background-color: #404040;
+	border-radius: 8pt;
+	padding: 16pt;
+}
+
+.pagebody {
+	padding: 8pt;
+}
